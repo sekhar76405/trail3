@@ -1,1 +1,2 @@
 this is a sample text file.
+this is a line added in append mode to test the merge conflicts.
