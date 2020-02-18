@@ -1,1 +1,2 @@
-this is a 2nd sample text file.
+this is line added specifically to test edit mode for merge conflict.
+this is a 2nd(,,,,,editing this part,,,,) sample text file.
