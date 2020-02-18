@@ -1,6 +1,8 @@
+styuiud
+fghjk
 this is a sample text file.
 this is a line added in append mode to test the merge conflicts.
-<<<<<<< HEAD
+fgfhj<<<<<<< HEAD
 the theory behind this is to if there are changes,
 =======
 this line is used for conflict.
