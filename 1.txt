@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 styuiud
 fghjk
+=======
+vbm,vabs
+scausvb
+>>>>>>> test
 this is a sample text file.
 this is a line added in append mode to test the merge conflicts.
 fgfhj<<<<<<< HEAD
